@@ -1,1 +1,3 @@
-# code-snippets
+# Code Snippets
+
+- List of Code Snippets
